@@ -29,6 +29,7 @@ Open the `index.html` file in your browser to play the game.
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/Manasa-D123/candy-crush-game.git
+   cd candy-crush-game
 
 2. Open in browser
    Simply open the index.html file in any modern web browser (Chrome, Firefox, Edge, etc.).

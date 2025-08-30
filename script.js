@@ -10,12 +10,12 @@ function candyCrushGame() {
     let score = 0;
 
     const candyColors = [
-        "url(https://raw.githubusercontent.com/arpit456jain/Amazing-Js-Projects/master/Candy%20Crush/utils/red-candy.png)",
-        "url(https://raw.githubusercontent.com/arpit456jain/Amazing-Js-Projects/master/Candy%20Crush/utils/blue-candy.png)",
-        "url(https://raw.githubusercontent.com/arpit456jain/Amazing-Js-Projects/master/Candy%20Crush/utils/green-candy.png)",
-        "url(https://raw.githubusercontent.com/arpit456jain/Amazing-Js-Projects/master/Candy%20Crush/utils/yellow-candy.png)",
-        "url(https://raw.githubusercontent.com/arpit456jain/Amazing-Js-Projects/master/Candy%20Crush/utils/orange-candy.png)",
-        "url(https://raw.githubusercontent.com/arpit456jain/Amazing-Js-Projects/master/Candy%20Crush/utils/purple-candy.png)",
+        "url(utils/red-candy.png)",
+        "url(utils/blue-candy.png)",
+        "url(utils/green-candy.png)",
+        "url(utils/yellow-candy.png)",
+        "url(utils/orange-candy.png)",
+        "url(utils/purple-candy.png)",
     ];
 
     // Creating Game Board

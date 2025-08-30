@@ -1,4 +1,4 @@
-# 🍬 Candy Crush Game (CodeWithCurious)
+# 🍬 Candy Crush Game
 
 A simple **Candy Crush clone** built with **HTML, CSS, and JavaScript**.  
 The game features a grid-based board where you can swap candies, match 3 or more of the same type, and earn points.
@@ -6,17 +6,14 @@ The game features a grid-based board where you can swap candies, match 3 or more
 ---
 
 ## 🚀 Demo
-Open the `index2.html` file in your browser to play the game.
-
----
-
+Open the `index.html` file in your browser to play the game.
 
 ---
 
 ## 🎮 Features
 - Match 3 or more candies to score points  
 - Dynamic grid that updates after matches  
-- Simple scoreboard to track your progress  
+- Simple scoreboard to track your progress
 
 ---
 
@@ -31,12 +28,11 @@ Open the `index2.html` file in your browser to play the game.
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/candy-crush-game.git
-   cd candy-crush-game
+   git clone https://github.com/Manasa-D123/candy-crush-game.git
 
 2. Open in browser
-   Simply open the index2.html file in any modern web browser (Chrome, Firefox, Edge, etc.).
+   Simply open the index.html file in any modern web browser (Chrome, Firefox, Edge, etc.).
    No server setup is required.
 
 3. (Optional) Run with Live Server
-   If you use VS Code, you can install the Live Server extension and right-click on index2.html → Open with Live Server for a smoother experience.
+   If you use VS Code, you can install the Live Server extension and right-click on index.html → Open with Live Server for a smoother experience.
